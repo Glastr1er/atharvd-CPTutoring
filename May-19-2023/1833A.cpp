@@ -1,6 +1,6 @@
 /*
 Author: atharvd
-Date: May-19-2023
+Date: May/19/2023
 Problem: 1833A
 */
 
